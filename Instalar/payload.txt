@@ -1,5 +1,6 @@
 .claro.com.br
 .claro.com.sv
+.web.whatsapp.net
 .facebook.net
 .netclaro.com.br
 .speedtest.net
